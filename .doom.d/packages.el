@@ -63,3 +63,4 @@
 (package! centered-cursor-mode)
 (package! toc-org)
 (package! org-gtd)
+(package! catppuccin-theme)
