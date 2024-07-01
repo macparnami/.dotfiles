@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 ##Bashrc Config appended
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
@@ -113,7 +120,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -238,3 +245,12 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias dotfiles='/usr/bin/git --git-dir=/home/mudit/.dotfiles/ --work-tree=/home/mudit'
+export PATH="$PATH:/opt/nvim/"
+export NVIM_APPNAME=nvchad
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+
+#Tmux path
+alias tmux="tmux -f ~/.config/tmux/tmux.conf"
