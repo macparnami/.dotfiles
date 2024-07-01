@@ -182,7 +182,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git emacs)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -244,7 +244,7 @@ eval "$(pyenv virtualenv-init -)"
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-alias dotfiles='/usr/bin/git --git-dir=/home/mudit/.dotfiles/ --work-tree=/home/mudit'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 export PATH="$PATH:/opt/nvim/"
 export NVIM_APPNAME=nvchad
 

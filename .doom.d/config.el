@@ -1,6 +1,6 @@
-;; (setq doom-theme 'doom-one)
-(setq doom-theme 'catppuccin)
-(setq catppuccin-flavor 'frappe) ;; or 'latte, 'frappe 'macchiato, or 'mocha
+(setq doom-theme 'doom-nord)
+;; (setq doom-theme 'catppuccin)
+;; (setq catppuccin-flavor 'frappe) ;; or 'latte, 'frappe 'macchiato, or 'mocha
 
 (setq doom-font (font-spec :family "FiraCode Nerd Font Mono" :size 17
 :weight 'normal))

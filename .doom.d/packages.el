@@ -64,3 +64,4 @@
 (package! toc-org)
 (package! org-gtd)
 (package! catppuccin-theme)
+(package! solaire-mode :disable t)
