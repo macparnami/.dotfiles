@@ -11,7 +11,7 @@
 :nvi "M-n" #'scroll-other-window
 :after evil
 :n "L" #'centaur-tabs-forward
-:n "H" #'centaur-tabs-forward
+:n "H" #'centaur-tabs-backward
 :nvi "M-SPC" #'doom-leader-alt-key
 :after lsp-ui
 :nvi "C-l" #'lsp-ui-doc-focus-frame
@@ -58,14 +58,9 @@
 #+end_src
 ** COMPLETION
 *** Corfu
-**** Keybinding
-#+begin_src emacs-lisp
-
-#+end_src
-
 **** Nerd-icons
 #+begin_src emacs-lisp
-(add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
+;; (add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
 #+end_src
 ** CENTAUR-TAB
 #+begin_src emacs-lisp

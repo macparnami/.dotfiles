@@ -77,11 +77,6 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
@@ -182,7 +177,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git emacs)
+plugins=(git) 
 
 source $ZSH/oh-my-zsh.sh
 
@@ -214,39 +209,39 @@ source $ZSH/oh-my-zsh.sh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/mudit/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/mudit/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/mudit/miniconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/mudit/miniconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
+# __conda_setup="$('/home/mudit/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+# if [ $? -eq 0 ]; then
+#     eval "$__conda_setup"
+# else
+#     if [ -f "/home/mudit/miniconda3/etc/profile.d/conda.sh" ]; then
+#         . "/home/mudit/miniconda3/etc/profile.d/conda.sh"
+#     else
+#         export PATH="/home/mudit/miniconda3/bin:$PATH"
+#     fi
+# fi
+# unset __conda_setup
 # <<< conda initialize <<<
 
 
-alias emax='
-export DISPLAY=:0.0
-export LIBGL_ALWAYS_INDIRECT=1
-setxkbmap -layout us
-setsid emacs
-'
+# alias emax='
+# export DISPLAY=:0.0
+# export LIBGL_ALWAYS_INDIRECT=1
+# setxkbmap -layout us
+# setsid emacs
+# '
 
 
 # pyenv
-export PATH="$HOME/.pyenv/bin:$PATH"
-eval "$(pyenv init --path)"
-eval "$(pyenv virtualenv-init -)"
+# export PATH="$HOME/.pyenv/bin:$PATH"
+# eval "$(pyenv init --path)"
+# eval "$(pyenv virtualenv-init -)"
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
-export PATH="$PATH:/opt/nvim/"
-export NVIM_APPNAME=nvchad
+export PATH="/opt/nvim/:$PATH"
+# export NVIM_APPNAME=lazy
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -254,3 +249,6 @@ export NVIM_APPNAME=nvchad
 
 #Tmux path
 alias tmux="tmux -f ~/.config/tmux/tmux.conf"
+
+# Doom path
+export PATH="$HOME/.config/emacs/bin:$PATH"

@@ -4,7 +4,7 @@
 :nvi "M-n" #'scroll-other-window
 :after evil
 :n "L" #'centaur-tabs-forward
-:n "H" #'centaur-tabs-forward
+:n "H" #'centaur-tabs-backward
 :nvi "M-SPC" #'doom-leader-alt-key
 :after lsp-ui
 :nvi "C-l" #'lsp-ui-doc-focus-frame
@@ -38,9 +38,7 @@
 ;;         lsp-ui-doc-max-width 100)
 ;;   )
 
-
-
-(add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
+;; (add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
 
 (use-package! centaur-tabs
 :config
