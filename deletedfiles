@@ -1,0 +1,1050 @@
+Removing .cache/
+Removing .conda/
+Removing .config/gh/
+Removing .config/glib-2.0/
+Removing .config/ibus/
+Removing .config/lazy/
+Removing .config/nvchad/
+Removing .config/procps/
+Skipping repository .config/tmux/plugins/vim-tmux-navigator
+Skipping repository .config/tmux/plugins/tmux-resurrect
+Skipping repository .config/tmux/plugins/tmux-themepack
+Skipping repository .config/tmux/plugins/tpm
+Skipping repository .config/tmux/plugins/tmux-continuum
+Removing .dbus/
+Removing .doom.d_bkpp11/
+Removing .dotfiles/
+Removing .gnupg/
+Removing .local/share/Trash/files/Pipfile
+Removing .local/share/Trash/files/src/test.py
+Removing .local/share/Trash/files/testfolder/
+Removing .local/share/Trash/info/
+Removing .local/share/flatpak/
+Removing .local/share/fonts/
+Skipping repository .local/share/lazy/lazy/todo-comments.nvim
+Skipping repository .local/share/lazy/lazy/nvim-treesitter
+Skipping repository .local/share/lazy/lazy/trouble.nvim
+Skipping repository .local/share/lazy/lazy/ts-comments.nvim
+Skipping repository .local/share/lazy/lazy/nvim-lspconfig
+Skipping repository .local/share/lazy/lazy/lualine.nvim
+Skipping repository .local/share/lazy/lazy/LazyVim
+Skipping repository .local/share/lazy/lazy/cmp-buffer
+Skipping repository .local/share/lazy/lazy/nvim-snippets
+Skipping repository .local/share/lazy/lazy/catppuccin
+Skipping repository .local/share/lazy/lazy/dashboard-nvim
+Skipping repository .local/share/lazy/lazy/bufferline.nvim
+Skipping repository .local/share/lazy/lazy/nvim-web-devicons
+Skipping repository .local/share/lazy/lazy/cmp-nvim-lsp
+Skipping repository .local/share/lazy/lazy/mini.ai
+Skipping repository .local/share/lazy/lazy/nvim-cmp
+Skipping repository .local/share/lazy/lazy/which-key.nvim
+Skipping repository .local/share/lazy/lazy/lazy.nvim
+Skipping repository .local/share/lazy/lazy/lazydev.nvim
+Skipping repository .local/share/lazy/lazy/mason.nvim
+Skipping repository .local/share/lazy/lazy/persistence.nvim
+Skipping repository .local/share/lazy/lazy/nui.nvim
+Skipping repository .local/share/lazy/lazy/nvim-treesitter-textobjects
+Skipping repository .local/share/lazy/lazy/nvim-lint
+Skipping repository .local/share/lazy/lazy/conform.nvim
+Skipping repository .local/share/lazy/lazy/gitsigns.nvim
+Skipping repository .local/share/lazy/lazy/friendly-snippets
+Skipping repository .local/share/lazy/lazy/telescope-fzf-native.nvim
+Skipping repository .local/share/lazy/lazy/tokyonight.nvim
+Skipping repository .local/share/lazy/lazy/luvit-meta
+Skipping repository .local/share/lazy/lazy/nvim-spectre
+Skipping repository .local/share/lazy/lazy/nvim-ts-autotag
+Skipping repository .local/share/lazy/lazy/plenary.nvim
+Skipping repository .local/share/lazy/lazy/cmp-path
+Skipping repository .local/share/lazy/lazy/nvim-notify
+Skipping repository .local/share/lazy/lazy/flash.nvim
+Skipping repository .local/share/lazy/lazy/indent-blankline.nvim
+Skipping repository .local/share/lazy/lazy/telescope.nvim
+Skipping repository .local/share/lazy/lazy/noice.nvim
+Skipping repository .local/share/lazy/lazy/mason-lspconfig.nvim
+Skipping repository .local/share/lazy/lazy/mini.pairs
+Skipping repository .local/share/lazy/lazy/dressing.nvim
+Skipping repository .local/share/lazy/lazy/neo-tree.nvim
+Removing .local/share/lazy/neo-tree.nvim.log
+Removing .local/share/lazy/telescope_history
+Removing .local/share/lazy/.netrwhist
+Removing .local/share/lazy/mason
+Removing .local/share/nano/
+Skipping repository .local/share/nvchad/lazy/nvim-treesitter
+Skipping repository .local/share/nvchad/lazy/nvim-lspconfig
+Skipping repository .local/share/nvchad/lazy/NvChad
+Skipping repository .local/share/nvchad/lazy/base46
+Skipping repository .local/share/nvchad/lazy/cmp-buffer
+Skipping repository .local/share/nvchad/lazy/nvim-web-devicons
+Skipping repository .local/share/nvchad/lazy/nvim-tree.lua
+Skipping repository .local/share/nvchad/lazy/cmp_luasnip
+Skipping repository .local/share/nvchad/lazy/cmp-nvim-lsp
+Skipping repository .local/share/nvchad/lazy/nvim-cmp
+Skipping repository .local/share/nvchad/lazy/nvim-colorizer.lua
+Skipping repository .local/share/nvchad/lazy/which-key.nvim
+Skipping repository .local/share/nvchad/lazy/lazy.nvim
+Skipping repository .local/share/nvchad/lazy/ui
+Skipping repository .local/share/nvchad/lazy/mason.nvim
+Skipping repository .local/share/nvchad/lazy/conform.nvim
+Skipping repository .local/share/nvchad/lazy/gitsigns.nvim
+Skipping repository .local/share/nvchad/lazy/friendly-snippets
+Skipping repository .local/share/nvchad/lazy/cmp-nvim-lua
+Skipping repository .local/share/nvchad/lazy/LuaSnip
+Skipping repository .local/share/nvchad/lazy/plenary.nvim
+Skipping repository .local/share/nvchad/lazy/cmp-path
+Skipping repository .local/share/nvchad/lazy/indent-blankline.nvim
+Skipping repository .local/share/nvchad/lazy/nvim-autopairs
+Skipping repository .local/share/nvchad/lazy/telescope.nvim
+Removing .local/share/nvchad/telescope_history
+Removing .local/share/nvchad/nvchad
+Removing .local/share/nvchad/mason
+Removing .local/share/nvchadmain/
+Skipping repository .local/share/nvim.bak/lazy/nvim-treesitter
+Skipping repository .local/share/nvim.bak/lazy/nvim-lspconfig
+Skipping repository .local/share/nvim.bak/lazy/NvChad
+Skipping repository .local/share/nvim.bak/lazy/base46
+Skipping repository .local/share/nvim.bak/lazy/cmp-buffer
+Skipping repository .local/share/nvim.bak/lazy/nvim-web-devicons
+Skipping repository .local/share/nvim.bak/lazy/nvim-tree.lua
+Skipping repository .local/share/nvim.bak/lazy/cmp_luasnip
+Skipping repository .local/share/nvim.bak/lazy/cmp-nvim-lsp
+Skipping repository .local/share/nvim.bak/lazy/nvim-cmp
+Skipping repository .local/share/nvim.bak/lazy/nvim-colorizer.lua
+Skipping repository .local/share/nvim.bak/lazy/which-key.nvim
+Skipping repository .local/share/nvim.bak/lazy/lazy.nvim
+Skipping repository .local/share/nvim.bak/lazy/ui
+Skipping repository .local/share/nvim.bak/lazy/mason.nvim
+Skipping repository .local/share/nvim.bak/lazy/conform.nvim
+Skipping repository .local/share/nvim.bak/lazy/gitsigns.nvim
+Skipping repository .local/share/nvim.bak/lazy/friendly-snippets
+Skipping repository .local/share/nvim.bak/lazy/cmp-nvim-lua
+Skipping repository .local/share/nvim.bak/lazy/LuaSnip
+Skipping repository .local/share/nvim.bak/lazy/plenary.nvim
+Skipping repository .local/share/nvim.bak/lazy/cmp-path
+Skipping repository .local/share/nvim.bak/lazy/indent-blankline.nvim
+Skipping repository .local/share/nvim.bak/lazy/nvim-autopairs
+Skipping repository .local/share/nvim.bak/lazy/telescope.nvim
+Removing .local/share/nvim.bak/telescope_history
+Removing .local/share/nvim.bak/shada
+Removing .local/share/nvim.bak/nvchad
+Removing .local/share/nvim.bak/mason
+Removing .local/share/nvim/
+Removing .local/share/nyxt/
+Removing .local/share/virtualenv/
+Removing .local/share/webkitgtk/
+Removing .local/state/
+Removing .npm/
+Removing .nv/
+Removing .ssh/
+Skipping repository .tmux/plugins/tpm
+Removing .tmux/resurrect
+Removing .var/
+Removing .zsh_history
+Skipping repository code/ims-backend
+Skipping repository code/ims-frontend_old
+Skipping repository code/CodePractice
+Skipping repository code/ims-frontend
+Removing code/package-lock.json
+Removing fonts/
+Removing miniconda3/LICENSE.txt
+Removing miniconda3/bin/
+Removing miniconda3/cmake/
+Removing miniconda3/compiler_compat/
+Removing miniconda3/conda-meta/
+Removing miniconda3/condabin/
+Removing miniconda3/envs/
+Removing miniconda3/etc/
+Removing miniconda3/include/
+Removing miniconda3/lib/cmake/
+Removing miniconda3/lib/icu/
+Removing miniconda3/lib/itcl4.2.2/
+Removing miniconda3/lib/krb5/
+Removing miniconda3/lib/libarchive.a
+Removing miniconda3/lib/libarchive.so
+Removing miniconda3/lib/libarchive.so.19
+Removing miniconda3/lib/libatomic.so
+Removing miniconda3/lib/libatomic.so.1
+Removing miniconda3/lib/libatomic.so.1.2.0
+Removing miniconda3/lib/libbz2.a
+Removing miniconda3/lib/libbz2.so
+Removing miniconda3/lib/libbz2.so.1.0
+Removing miniconda3/lib/libbz2.so.1.0.8
+Removing miniconda3/lib/libcares.so
+Removing miniconda3/lib/libcares.so.2
+Removing miniconda3/lib/libcares.so.2.6.1
+Removing miniconda3/lib/libcom_err.so
+Removing miniconda3/lib/libcom_err.so.3
+Removing miniconda3/lib/libcom_err.so.3.0
+Removing miniconda3/lib/libcrypto.so
+Removing miniconda3/lib/libcrypto.so.3
+Removing miniconda3/lib/libcurl.so
+Removing miniconda3/lib/libcurl.so.4
+Removing miniconda3/lib/libcurl.so.4.8.0
+Removing miniconda3/lib/libedit.a
+Removing miniconda3/lib/libedit.so
+Removing miniconda3/lib/libedit.so.0
+Removing miniconda3/lib/libedit.so.0.0.70
+Removing miniconda3/lib/libev.so
+Removing miniconda3/lib/libev.so.4
+Removing miniconda3/lib/libev.so.4.0.0
+Removing miniconda3/lib/libffi.7.so
+Removing miniconda3/lib/libffi.8.so
+Removing miniconda3/lib/libffi.a
+Removing miniconda3/lib/libffi.so
+Removing miniconda3/lib/libffi.so.7
+Removing miniconda3/lib/libffi.so.8
+Removing miniconda3/lib/libffi.so.8.1.2
+Removing miniconda3/lib/libfmt.so
+Removing miniconda3/lib/libfmt.so.9
+Removing miniconda3/lib/libfmt.so.9.1.0
+Removing miniconda3/lib/libform.a
+Removing miniconda3/lib/libform.so
+Removing miniconda3/lib/libform.so.6
+Removing miniconda3/lib/libform.so.6.4
+Removing miniconda3/lib/libformw.a
+Removing miniconda3/lib/libformw.so
+Removing miniconda3/lib/libformw.so.6
+Removing miniconda3/lib/libformw.so.6.4
+Removing miniconda3/lib/libgcc_s.so
+Removing miniconda3/lib/libgcc_s.so.1
+Removing miniconda3/lib/libgmock.so
+Removing miniconda3/lib/libgmock.so.1.11.0
+Removing miniconda3/lib/libgmock_main.so
+Removing miniconda3/lib/libgmock_main.so.1.11.0
+Removing miniconda3/lib/libgomp.so
+Removing miniconda3/lib/libgomp.so.1
+Removing miniconda3/lib/libgomp.so.1.0.0
+Removing miniconda3/lib/libgssapi_krb5.so
+Removing miniconda3/lib/libgssapi_krb5.so.2
+Removing miniconda3/lib/libgssapi_krb5.so.2.2
+Removing miniconda3/lib/libgssrpc.so
+Removing miniconda3/lib/libgssrpc.so.4
+Removing miniconda3/lib/libgssrpc.so.4.2
+Removing miniconda3/lib/libgtest.so
+Removing miniconda3/lib/libgtest.so.1.11.0
+Removing miniconda3/lib/libgtest_main.so
+Removing miniconda3/lib/libgtest_main.so.1.11.0
+Removing miniconda3/lib/libhistory.a
+Removing miniconda3/lib/libhistory.so
+Removing miniconda3/lib/libhistory.so.8
+Removing miniconda3/lib/libhistory.so.8.2
+Removing miniconda3/lib/libicudata.a
+Removing miniconda3/lib/libicudata.so
+Removing miniconda3/lib/libicudata.so.73
+Removing miniconda3/lib/libicudata.so.73.1
+Removing miniconda3/lib/libicui18n.a
+Removing miniconda3/lib/libicui18n.so
+Removing miniconda3/lib/libicui18n.so.73
+Removing miniconda3/lib/libicui18n.so.73.1
+Removing miniconda3/lib/libicuio.a
+Removing miniconda3/lib/libicuio.so
+Removing miniconda3/lib/libicuio.so.73
+Removing miniconda3/lib/libicuio.so.73.1
+Removing miniconda3/lib/libicutest.a
+Removing miniconda3/lib/libicutest.so
+Removing miniconda3/lib/libicutest.so.73
+Removing miniconda3/lib/libicutest.so.73.1
+Removing miniconda3/lib/libicutu.a
+Removing miniconda3/lib/libicutu.so
+Removing miniconda3/lib/libicutu.so.73
+Removing miniconda3/lib/libicutu.so.73.1
+Removing miniconda3/lib/libicuuc.a
+Removing miniconda3/lib/libicuuc.so
+Removing miniconda3/lib/libicuuc.so.73
+Removing miniconda3/lib/libicuuc.so.73.1
+Removing miniconda3/lib/libitm.so
+Removing miniconda3/lib/libitm.so.1
+Removing miniconda3/lib/libitm.so.1.0.0
+Removing miniconda3/lib/libk5crypto.so
+Removing miniconda3/lib/libk5crypto.so.3
+Removing miniconda3/lib/libk5crypto.so.3.1
+Removing miniconda3/lib/libkadm5clnt.so
+Removing miniconda3/lib/libkadm5clnt_mit.so
+Removing miniconda3/lib/libkadm5clnt_mit.so.12
+Removing miniconda3/lib/libkadm5clnt_mit.so.12.0
+Removing miniconda3/lib/libkadm5srv.so
+Removing miniconda3/lib/libkadm5srv_mit.so
+Removing miniconda3/lib/libkadm5srv_mit.so.12
+Removing miniconda3/lib/libkadm5srv_mit.so.12.0
+Removing miniconda3/lib/libkdb5.so
+Removing miniconda3/lib/libkdb5.so.10
+Removing miniconda3/lib/libkdb5.so.10.0
+Removing miniconda3/lib/libkrad.so
+Removing miniconda3/lib/libkrad.so.0
+Removing miniconda3/lib/libkrad.so.0.0
+Removing miniconda3/lib/libkrb5.so
+Removing miniconda3/lib/libkrb5.so.3
+Removing miniconda3/lib/libkrb5.so.3.3
+Removing miniconda3/lib/libkrb5support.so
+Removing miniconda3/lib/libkrb5support.so.0
+Removing miniconda3/lib/libkrb5support.so.0.1
+Removing miniconda3/lib/liblz4.so
+Removing miniconda3/lib/liblz4.so.1
+Removing miniconda3/lib/liblz4.so.1.9.4
+Removing miniconda3/lib/liblzma.a
+Removing miniconda3/lib/liblzma.so
+Removing miniconda3/lib/liblzma.so.5
+Removing miniconda3/lib/liblzma.so.5.4.2
+Removing miniconda3/lib/libmamba.so
+Removing miniconda3/lib/libmamba.so.2
+Removing miniconda3/lib/libmamba.so.2.0.0
+Removing miniconda3/lib/libmenu.a
+Removing miniconda3/lib/libmenu.so
+Removing miniconda3/lib/libmenu.so.6
+Removing miniconda3/lib/libmenu.so.6.4
+Removing miniconda3/lib/libmenuw.a
+Removing miniconda3/lib/libmenuw.so
+Removing miniconda3/lib/libmenuw.so.6
+Removing miniconda3/lib/libmenuw.so.6.4
+Removing miniconda3/lib/libncurses++.a
+Removing miniconda3/lib/libncurses++w.a
+Removing miniconda3/lib/libncurses.a
+Removing miniconda3/lib/libncurses.so
+Removing miniconda3/lib/libncurses.so.6
+Removing miniconda3/lib/libncurses.so.6.4
+Removing miniconda3/lib/libncursesw.a
+Removing miniconda3/lib/libncursesw.so
+Removing miniconda3/lib/libncursesw.so.6
+Removing miniconda3/lib/libncursesw.so.6.4
+Removing miniconda3/lib/libnghttp2.so
+Removing miniconda3/lib/libnghttp2.so.14
+Removing miniconda3/lib/libnghttp2.so.14.25.0
+Removing miniconda3/lib/libnode.so.108
+Removing miniconda3/lib/libpanel.a
+Removing miniconda3/lib/libpanel.so
+Removing miniconda3/lib/libpanel.so.6
+Removing miniconda3/lib/libpanel.so.6.4
+Removing miniconda3/lib/libpanelw.a
+Removing miniconda3/lib/libpanelw.so
+Removing miniconda3/lib/libpanelw.so.6
+Removing miniconda3/lib/libpanelw.so.6.4
+Removing miniconda3/lib/libpcre2-16.a
+Removing miniconda3/lib/libpcre2-16.so
+Removing miniconda3/lib/libpcre2-16.so.0
+Removing miniconda3/lib/libpcre2-16.so.0.11.2
+Removing miniconda3/lib/libpcre2-32.a
+Removing miniconda3/lib/libpcre2-32.so
+Removing miniconda3/lib/libpcre2-32.so.0
+Removing miniconda3/lib/libpcre2-32.so.0.11.2
+Removing miniconda3/lib/libpcre2-8.a
+Removing miniconda3/lib/libpcre2-8.so
+Removing miniconda3/lib/libpcre2-8.so.0
+Removing miniconda3/lib/libpcre2-8.so.0.11.2
+Removing miniconda3/lib/libpcre2-posix.a
+Removing miniconda3/lib/libpcre2-posix.so
+Removing miniconda3/lib/libpcre2-posix.so.3
+Removing miniconda3/lib/libpcre2-posix.so.3.0.4
+Removing miniconda3/lib/libpython3.11.so
+Removing miniconda3/lib/libpython3.11.so.1.0
+Removing miniconda3/lib/libpython3.so
+Removing miniconda3/lib/libquadmath.so
+Removing miniconda3/lib/libquadmath.so.0
+Removing miniconda3/lib/libquadmath.so.0.0.0
+Removing miniconda3/lib/libreadline.a
+Removing miniconda3/lib/libreadline.so
+Removing miniconda3/lib/libreadline.so.8
+Removing miniconda3/lib/libreadline.so.8.2
+Removing miniconda3/lib/libreproc++.so
+Removing miniconda3/lib/libreproc++.so.14
+Removing miniconda3/lib/libreproc++.so.14.2.4
+Removing miniconda3/lib/libreproc.so
+Removing miniconda3/lib/libreproc.so.14
+Removing miniconda3/lib/libreproc.so.14.2.4
+Removing miniconda3/lib/libsolv.so
+Removing miniconda3/lib/libsolv.so.1
+Removing miniconda3/lib/libsolvext.so
+Removing miniconda3/lib/libsolvext.so.1
+Removing miniconda3/lib/libsqlite3.so
+Removing miniconda3/lib/libsqlite3.so.0
+Removing miniconda3/lib/libsqlite3.so.0.8.6
+Removing miniconda3/lib/libssh2.a
+Removing miniconda3/lib/libssh2.so
+Removing miniconda3/lib/libssh2.so.1
+Removing miniconda3/lib/libssh2.so.1.0.1
+Removing miniconda3/lib/libssl.so
+Removing miniconda3/lib/libssl.so.3
+Removing miniconda3/lib/libstdc++.so
+Removing miniconda3/lib/libstdc++.so.6
+Removing miniconda3/lib/libstdc++.so.6.0.29
+Removing miniconda3/lib/libtcl8.6.so
+Removing miniconda3/lib/libtclstub8.6.a
+Removing miniconda3/lib/libtinfo.a
+Removing miniconda3/lib/libtinfo.so
+Removing miniconda3/lib/libtinfo.so.6
+Removing miniconda3/lib/libtinfo.so.6.4
+Removing miniconda3/lib/libtinfow.a
+Removing miniconda3/lib/libtinfow.so
+Removing miniconda3/lib/libtinfow.so.6
+Removing miniconda3/lib/libtinfow.so.6.4
+Removing miniconda3/lib/libtk8.6.so
+Removing miniconda3/lib/libtkstub8.6.a
+Removing miniconda3/lib/libuuid.a
+Removing miniconda3/lib/libuuid.so
+Removing miniconda3/lib/libuuid.so.1
+Removing miniconda3/lib/libuuid.so.1.3.0
+Removing miniconda3/lib/libuv.a
+Removing miniconda3/lib/libuv.so
+Removing miniconda3/lib/libuv.so.1
+Removing miniconda3/lib/libuv.so.1.0.0
+Removing miniconda3/lib/libverto.so
+Removing miniconda3/lib/libverto.so.0
+Removing miniconda3/lib/libverto.so.0.0
+Removing miniconda3/lib/libxml2.so
+Removing miniconda3/lib/libxml2.so.2
+Removing miniconda3/lib/libxml2.so.2.10.4
+Removing miniconda3/lib/libyaml-cpp.so
+Removing miniconda3/lib/libyaml-cpp.so.0.8
+Removing miniconda3/lib/libyaml-cpp.so.0.8.0
+Removing miniconda3/lib/libz.a
+Removing miniconda3/lib/libz.so
+Removing miniconda3/lib/libz.so.1
+Removing miniconda3/lib/libz.so.1.2.13
+Removing miniconda3/lib/libzstd.a
+Removing miniconda3/lib/libzstd.so
+Removing miniconda3/lib/libzstd.so.1
+Removing miniconda3/lib/libzstd.so.1.5.5
+Removing miniconda3/lib/node_modules/
+Removing miniconda3/lib/pkgconfig/
+Removing miniconda3/lib/python3.1
+Removing miniconda3/lib/python3.11/LICENSE.txt
+Removing miniconda3/lib/python3.11/__future__.py
+Removing miniconda3/lib/python3.11/__hello__.py
+Removing miniconda3/lib/python3.11/__phello__/
+Removing miniconda3/lib/python3.11/__pycache__/
+Removing miniconda3/lib/python3.11/_aix_support.py
+Removing miniconda3/lib/python3.11/_bootsubprocess.py
+Removing miniconda3/lib/python3.11/_collections_abc.py
+Removing miniconda3/lib/python3.11/_compat_pickle.py
+Removing miniconda3/lib/python3.11/_compression.py
+Removing miniconda3/lib/python3.11/_markupbase.py
+Removing miniconda3/lib/python3.11/_osx_support.py
+Removing miniconda3/lib/python3.11/_py_abc.py
+Removing miniconda3/lib/python3.11/_pydecimal.py
+Removing miniconda3/lib/python3.11/_pyio.py
+Removing miniconda3/lib/python3.11/_sitebuiltins.py
+Removing miniconda3/lib/python3.11/_strptime.py
+Removing miniconda3/lib/python3.11/_sysconfigdata__linux_x86_64-linux-gnu.py
+Removing miniconda3/lib/python3.11/_sysconfigdata__linux_x86_64-linux-gnu.py.orig
+Removing miniconda3/lib/python3.11/_sysconfigdata_x86_64_conda_cos6_linux_gnu.py
+Removing miniconda3/lib/python3.11/_sysconfigdata_x86_64_conda_linux_gnu.py
+Removing miniconda3/lib/python3.11/_threading_local.py
+Removing miniconda3/lib/python3.11/_weakrefset.py
+Removing miniconda3/lib/python3.11/abc.py
+Removing miniconda3/lib/python3.11/aifc.py
+Removing miniconda3/lib/python3.11/antigravity.py
+Removing miniconda3/lib/python3.11/argparse.py
+Removing miniconda3/lib/python3.11/ast.py
+Removing miniconda3/lib/python3.11/asynchat.py
+Removing miniconda3/lib/python3.11/asyncio/
+Removing miniconda3/lib/python3.11/asyncore.py
+Removing miniconda3/lib/python3.11/base64.py
+Removing miniconda3/lib/python3.11/bdb.py
+Removing miniconda3/lib/python3.11/bisect.py
+Removing miniconda3/lib/python3.11/bz2.py
+Removing miniconda3/lib/python3.11/cProfile.py
+Removing miniconda3/lib/python3.11/calendar.py
+Removing miniconda3/lib/python3.11/cgi.py
+Removing miniconda3/lib/python3.11/cgitb.py
+Removing miniconda3/lib/python3.11/chunk.py
+Removing miniconda3/lib/python3.11/cmd.py
+Removing miniconda3/lib/python3.11/code.py
+Removing miniconda3/lib/python3.11/codecs.py
+Removing miniconda3/lib/python3.11/codeop.py
+Removing miniconda3/lib/python3.11/collections/
+Removing miniconda3/lib/python3.11/colorsys.py
+Removing miniconda3/lib/python3.11/compileall.py
+Removing miniconda3/lib/python3.11/concurrent/
+Removing miniconda3/lib/python3.11/config-3.11-x86_64-linux-gnu/
+Removing miniconda3/lib/python3.11/configparser.py
+Removing miniconda3/lib/python3.11/contextlib.py
+Removing miniconda3/lib/python3.11/contextvars.py
+Removing miniconda3/lib/python3.11/copy.py
+Removing miniconda3/lib/python3.11/copyreg.py
+Removing miniconda3/lib/python3.11/crypt.py
+Removing miniconda3/lib/python3.11/csv.py
+Removing miniconda3/lib/python3.11/ctypes/
+Removing miniconda3/lib/python3.11/curses/
+Removing miniconda3/lib/python3.11/dataclasses.py
+Removing miniconda3/lib/python3.11/datetime.py
+Removing miniconda3/lib/python3.11/dbm/
+Removing miniconda3/lib/python3.11/decimal.py
+Removing miniconda3/lib/python3.11/difflib.py
+Removing miniconda3/lib/python3.11/dis.py
+Removing miniconda3/lib/python3.11/distutils/
+Removing miniconda3/lib/python3.11/doctest.py
+Removing miniconda3/lib/python3.11/email/
+Removing miniconda3/lib/python3.11/encodings/
+Removing miniconda3/lib/python3.11/ensurepip/
+Removing miniconda3/lib/python3.11/enum.py
+Removing miniconda3/lib/python3.11/filecmp.py
+Removing miniconda3/lib/python3.11/fileinput.py
+Removing miniconda3/lib/python3.11/fnmatch.py
+Removing miniconda3/lib/python3.11/fractions.py
+Removing miniconda3/lib/python3.11/ftplib.py
+Removing miniconda3/lib/python3.11/functools.py
+Removing miniconda3/lib/python3.11/genericpath.py
+Removing miniconda3/lib/python3.11/getopt.py
+Removing miniconda3/lib/python3.11/getpass.py
+Removing miniconda3/lib/python3.11/gettext.py
+Removing miniconda3/lib/python3.11/glob.py
+Removing miniconda3/lib/python3.11/graphlib.py
+Removing miniconda3/lib/python3.11/gzip.py
+Removing miniconda3/lib/python3.11/hashlib.py
+Removing miniconda3/lib/python3.11/heapq.py
+Removing miniconda3/lib/python3.11/hmac.py
+Removing miniconda3/lib/python3.11/html/
+Removing miniconda3/lib/python3.11/http/
+Removing miniconda3/lib/python3.11/idlelib/
+Removing miniconda3/lib/python3.11/imaplib.py
+Removing miniconda3/lib/python3.11/imghdr.py
+Removing miniconda3/lib/python3.11/imp.py
+Removing miniconda3/lib/python3.11/importlib/
+Removing miniconda3/lib/python3.11/inspect.py
+Removing miniconda3/lib/python3.11/io.py
+Removing miniconda3/lib/python3.11/ipaddress.py
+Removing miniconda3/lib/python3.11/json/
+Removing miniconda3/lib/python3.11/keyword.py
+Removing miniconda3/lib/python3.11/lib-dynload/
+Removing miniconda3/lib/python3.11/lib2to3/
+Removing miniconda3/lib/python3.11/linecache.py
+Removing miniconda3/lib/python3.11/locale.py
+Removing miniconda3/lib/python3.11/logging/
+Removing miniconda3/lib/python3.11/lzma.py
+Removing miniconda3/lib/python3.11/mailbox.py
+Removing miniconda3/lib/python3.11/mailcap.py
+Removing miniconda3/lib/python3.11/mimetypes.py
+Removing miniconda3/lib/python3.11/modulefinder.py
+Removing miniconda3/lib/python3.11/multiprocessing/
+Removing miniconda3/lib/python3.11/netrc.py
+Removing miniconda3/lib/python3.11/nntplib.py
+Removing miniconda3/lib/python3.11/ntpath.py
+Removing miniconda3/lib/python3.11/nturl2path.py
+Removing miniconda3/lib/python3.11/numbers.py
+Removing miniconda3/lib/python3.11/opcode.py
+Removing miniconda3/lib/python3.11/operator.py
+Removing miniconda3/lib/python3.11/optparse.py
+Removing miniconda3/lib/python3.11/os.py
+Removing miniconda3/lib/python3.11/pathlib.py
+Removing miniconda3/lib/python3.11/pdb.py
+Removing miniconda3/lib/python3.11/pickle.py
+Removing miniconda3/lib/python3.11/pickletools.py
+Removing miniconda3/lib/python3.11/pipes.py
+Removing miniconda3/lib/python3.11/pkgutil.py
+Removing miniconda3/lib/python3.11/platform.py
+Removing miniconda3/lib/python3.11/plistlib.py
+Removing miniconda3/lib/python3.11/poplib.py
+Removing miniconda3/lib/python3.11/posixpath.py
+Removing miniconda3/lib/python3.11/pprint.py
+Removing miniconda3/lib/python3.11/profile.py
+Removing miniconda3/lib/python3.11/pstats.py
+Removing miniconda3/lib/python3.11/pty.py
+Removing miniconda3/lib/python3.11/py_compile.py
+Removing miniconda3/lib/python3.11/pyclbr.py
+Removing miniconda3/lib/python3.11/pydoc.py
+Removing miniconda3/lib/python3.11/pydoc_data/
+Removing miniconda3/lib/python3.11/queue.py
+Removing miniconda3/lib/python3.11/quopri.py
+Removing miniconda3/lib/python3.11/random.py
+Removing miniconda3/lib/python3.11/re/
+Removing miniconda3/lib/python3.11/reprlib.py
+Removing miniconda3/lib/python3.11/rlcompleter.py
+Removing miniconda3/lib/python3.11/runpy.py
+Removing miniconda3/lib/python3.11/sched.py
+Removing miniconda3/lib/python3.11/secrets.py
+Removing miniconda3/lib/python3.11/selectors.py
+Removing miniconda3/lib/python3.11/shelve.py
+Removing miniconda3/lib/python3.11/shlex.py
+Removing miniconda3/lib/python3.11/shutil.py
+Removing miniconda3/lib/python3.11/signal.py
+Removing miniconda3/lib/python3.11/site-packages/30fcd23745efe32ce681__mypyc.cpython-311-x86_64-linux-gnu.so
+Removing miniconda3/lib/python3.11/site-packages/Brotli-1.0.9.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/OpenSSL/
+Removing miniconda3/lib/python3.11/site-packages/PySocks-1.7.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/README.txt
+Removing miniconda3/lib/python3.11/site-packages/__pycache__/
+Removing miniconda3/lib/python3.11/site-packages/_black_version.py
+Removing miniconda3/lib/python3.11/site-packages/_brotli.cpython-311-x86_64-linux-gnu.so
+Removing miniconda3/lib/python3.11/site-packages/_cffi_backend.cpython-311-x86_64-linux-gnu.so
+Removing miniconda3/lib/python3.11/site-packages/_distutils_hack/
+Removing miniconda3/lib/python3.11/site-packages/_pytest/
+Removing miniconda3/lib/python3.11/site-packages/archspec-0.2.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/archspec/__init__.py
+Removing miniconda3/lib/python3.11/site-packages/archspec/__main__.py
+Removing miniconda3/lib/python3.11/site-packages/archspec/__pycache__/
+Removing miniconda3/lib/python3.11/site-packages/archspec/cli.py
+Removing miniconda3/lib/python3.11/site-packages/archspec/cpu/
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/.github/
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/COPYRIGHT
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/LICENSE-APACHE
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/LICENSE-MIT
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/NOTICE
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/README.md
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/cpu/
+Removing miniconda3/lib/python3.11/site-packages/archspec/json/tests/
+Removing miniconda3/lib/python3.11/site-packages/black-24.4.2.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/black/
+Removing miniconda3/lib/python3.11/site-packages/blackd/
+Removing miniconda3/lib/python3.11/site-packages/blib2to3/
+Removing miniconda3/lib/python3.11/site-packages/boltons-23.0.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/boltons/
+Removing miniconda3/lib/python3.11/site-packages/brotli.py
+Removing miniconda3/lib/python3.11/site-packages/certifi-2023.11.17.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/certifi/
+Removing miniconda3/lib/python3.11/site-packages/cffi-1.15.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/cffi/
+Removing miniconda3/lib/python3.11/site-packages/charset_normalizer-2.0.4.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/charset_normalizer/
+Removing miniconda3/lib/python3.11/site-packages/click-8.1.7.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/click/
+Removing miniconda3/lib/python3.11/site-packages/conda-23.11.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/conda/
+Removing miniconda3/lib/python3.11/site-packages/conda_content_trust-0.2.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/conda_content_trust/
+Removing miniconda3/lib/python3.11/site-packages/conda_env/
+Removing miniconda3/lib/python3.11/site-packages/conda_libmamba_solver-23.11.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/conda_libmamba_solver/
+Removing miniconda3/lib/python3.11/site-packages/conda_package_handling-2.2.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/conda_package_handling/
+Removing miniconda3/lib/python3.11/site-packages/conda_package_streaming-0.9.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/conda_package_streaming/
+Removing miniconda3/lib/python3.11/site-packages/cryptography-41.0.3.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/cryptography/
+Removing miniconda3/lib/python3.11/site-packages/distlib-0.3.8.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/distlib/
+Removing miniconda3/lib/python3.11/site-packages/distro-1.8.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/distro/
+Removing miniconda3/lib/python3.11/site-packages/distutils-precedence.pth
+Removing miniconda3/lib/python3.11/site-packages/docs/
+Removing miniconda3/lib/python3.11/site-packages/examples/
+Removing miniconda3/lib/python3.11/site-packages/filelock-3.15.4.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/filelock/
+Removing miniconda3/lib/python3.11/site-packages/idna-3.4.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/idna/
+Removing miniconda3/lib/python3.11/site-packages/iniconfig-2.0.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/iniconfig/
+Removing miniconda3/lib/python3.11/site-packages/isort-5.13.2.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/isort/
+Removing miniconda3/lib/python3.11/site-packages/jsonpatch-1.32.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/jsonpatch.py
+Removing miniconda3/lib/python3.11/site-packages/jsonpointer-2.1-py3.6.egg-info/
+Removing miniconda3/lib/python3.11/site-packages/jsonpointer.py
+Removing miniconda3/lib/python3.11/site-packages/libmambapy-1.5.3.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/libmambapy/
+Removing miniconda3/lib/python3.11/site-packages/menuinst-2.0.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/menuinst/
+Removing miniconda3/lib/python3.11/site-packages/mypy_extensions-1.0.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/mypy_extensions.py
+Removing miniconda3/lib/python3.11/site-packages/nodeenv-1.7.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/nodeenv-1.8.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/nodeenv.py
+Removing miniconda3/lib/python3.11/site-packages/packaging-23.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/packaging/
+Removing miniconda3/lib/python3.11/site-packages/pathspec-0.12.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pathspec/
+Removing miniconda3/lib/python3.11/site-packages/pip-23.3-py3.11.egg-info/
+Removing miniconda3/lib/python3.11/site-packages/pip/
+Removing miniconda3/lib/python3.11/site-packages/pipenv-2024.0.1.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pipenv/
+Removing miniconda3/lib/python3.11/site-packages/pkg_resources/
+Removing miniconda3/lib/python3.11/site-packages/platformdirs-3.10.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/platformdirs/
+Removing miniconda3/lib/python3.11/site-packages/pluggy-1.5.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pluggy/
+Removing miniconda3/lib/python3.11/site-packages/py.py
+Removing miniconda3/lib/python3.11/site-packages/pyOpenSSL-23.2.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pycosat-0.6.6.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pycosat.cpython-311-x86_64-linux-gnu.so
+Removing miniconda3/lib/python3.11/site-packages/pycparser-2.21.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pycparser/
+Removing miniconda3/lib/python3.11/site-packages/pyflakes-3.2.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pyflakes/
+Removing miniconda3/lib/python3.11/site-packages/pyright-1.1.343.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pyright/
+Removing miniconda3/lib/python3.11/site-packages/pytest-8.2.2.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/pytest/
+Removing miniconda3/lib/python3.11/site-packages/requests-2.31.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/requests/
+Removing miniconda3/lib/python3.11/site-packages/ruamel.yaml-0.17.21-py3.11-nspkg.pth
+Removing miniconda3/lib/python3.11/site-packages/ruamel.yaml-0.17.21.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/ruamel/
+Removing miniconda3/lib/python3.11/site-packages/setuptools-68.0.0-py3.11.egg-info/
+Removing miniconda3/lib/python3.11/site-packages/setuptools/
+Removing miniconda3/lib/python3.11/site-packages/socks.py
+Removing miniconda3/lib/python3.11/site-packages/sockshandler.py
+Removing miniconda3/lib/python3.11/site-packages/test_pycosat.py
+Removing miniconda3/lib/python3.11/site-packages/tests/
+Removing miniconda3/lib/python3.11/site-packages/tqdm-4.65.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/tqdm/
+Removing miniconda3/lib/python3.11/site-packages/truststore-0.8.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/truststore/
+Removing miniconda3/lib/python3.11/site-packages/urllib3-1.26.18.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/urllib3/
+Removing miniconda3/lib/python3.11/site-packages/virtualenv-20.26.3.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/virtualenv/
+Removing miniconda3/lib/python3.11/site-packages/wheel-0.41.2.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/wheel/
+Removing miniconda3/lib/python3.11/site-packages/xontrib/
+Removing miniconda3/lib/python3.11/site-packages/zstandard-0.19.0.dist-info/
+Removing miniconda3/lib/python3.11/site-packages/zstandard/
+Removing miniconda3/lib/python3.11/site.py
+Removing miniconda3/lib/python3.11/smtpd.py
+Removing miniconda3/lib/python3.11/smtplib.py
+Removing miniconda3/lib/python3.11/sndhdr.py
+Removing miniconda3/lib/python3.11/socket.py
+Removing miniconda3/lib/python3.11/socketserver.py
+Removing miniconda3/lib/python3.11/sqlite3/
+Removing miniconda3/lib/python3.11/sre_compile.py
+Removing miniconda3/lib/python3.11/sre_constants.py
+Removing miniconda3/lib/python3.11/sre_parse.py
+Removing miniconda3/lib/python3.11/ssl.py
+Removing miniconda3/lib/python3.11/stat.py
+Removing miniconda3/lib/python3.11/statistics.py
+Removing miniconda3/lib/python3.11/string.py
+Removing miniconda3/lib/python3.11/stringprep.py
+Removing miniconda3/lib/python3.11/struct.py
+Removing miniconda3/lib/python3.11/subprocess.py
+Removing miniconda3/lib/python3.11/sunau.py
+Removing miniconda3/lib/python3.11/symtable.py
+Removing miniconda3/lib/python3.11/sysconfig.py
+Removing miniconda3/lib/python3.11/tabnanny.py
+Removing miniconda3/lib/python3.11/tarfile.py
+Removing miniconda3/lib/python3.11/telnetlib.py
+Removing miniconda3/lib/python3.11/tempfile.py
+Removing miniconda3/lib/python3.11/test/
+Removing miniconda3/lib/python3.11/textwrap.py
+Removing miniconda3/lib/python3.11/this.py
+Removing miniconda3/lib/python3.11/threading.py
+Removing miniconda3/lib/python3.11/timeit.py
+Removing miniconda3/lib/python3.11/tkinter/
+Removing miniconda3/lib/python3.11/token.py
+Removing miniconda3/lib/python3.11/tokenize.py
+Removing miniconda3/lib/python3.11/tomllib/
+Removing miniconda3/lib/python3.11/trace.py
+Removing miniconda3/lib/python3.11/traceback.py
+Removing miniconda3/lib/python3.11/tracemalloc.py
+Removing miniconda3/lib/python3.11/tty.py
+Removing miniconda3/lib/python3.11/turtle.py
+Removing miniconda3/lib/python3.11/turtledemo/
+Removing miniconda3/lib/python3.11/types.py
+Removing miniconda3/lib/python3.11/typing.py
+Removing miniconda3/lib/python3.11/unittest/
+Removing miniconda3/lib/python3.11/urllib/
+Removing miniconda3/lib/python3.11/uu.py
+Removing miniconda3/lib/python3.11/uuid.py
+Removing miniconda3/lib/python3.11/venv/
+Removing miniconda3/lib/python3.11/warnings.py
+Removing miniconda3/lib/python3.11/wave.py
+Removing miniconda3/lib/python3.11/weakref.py
+Removing miniconda3/lib/python3.11/webbrowser.py
+Removing miniconda3/lib/python3.11/wsgiref/
+Removing miniconda3/lib/python3.11/xdrlib.py
+Removing miniconda3/lib/python3.11/xml/
+Removing miniconda3/lib/python3.11/xmlrpc/
+Removing miniconda3/lib/python3.11/zipapp.py
+Removing miniconda3/lib/python3.11/zipfile.py
+Removing miniconda3/lib/python3.11/zipimport.py
+Removing miniconda3/lib/python3.11/zoneinfo/
+Removing miniconda3/lib/sqlite3.36.0/
+Removing miniconda3/lib/tcl8.6/
+Removing miniconda3/lib/tcl8/
+Removing miniconda3/lib/tclConfig.sh
+Removing miniconda3/lib/tclooConfig.sh
+Removing miniconda3/lib/tdbc1.1.3/
+Removing miniconda3/lib/tdbcmysql1.1.3/
+Removing miniconda3/lib/tdbcodbc1.1.3/
+Removing miniconda3/lib/tdbcpostgres1.1.3/
+Removing miniconda3/lib/terminfo
+Removing miniconda3/lib/thread2.8.7/
+Removing miniconda3/lib/tk8.6/
+Removing miniconda3/lib/tkConfig.sh
+Removing miniconda3/man/
+Removing miniconda3/pkgs/.constructor-build.info
+Removing miniconda3/pkgs/_libgcc_mutex-0.1-conda_forge.tar.bz2
+Removing miniconda3/pkgs/_libgcc_mutex-0.1-conda_forge/
+Removing miniconda3/pkgs/_libgcc_mutex-0.1-main.conda
+Removing miniconda3/pkgs/_libgcc_mutex-0.1-main/
+Removing miniconda3/pkgs/_openmp_mutex-4.5-2_gnu.tar.bz2
+Removing miniconda3/pkgs/_openmp_mutex-4.5-2_gnu/
+Removing miniconda3/pkgs/_openmp_mutex-5.1-1_gnu.conda
+Removing miniconda3/pkgs/_openmp_mutex-5.1-1_gnu/
+Removing miniconda3/pkgs/appdirs-1.4.4-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/appdirs-1.4.4-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/info/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec-0.2.1.dist-info/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/__init__.py
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/__main__.py
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/cli.py
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/cpu/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/.github/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/COPYRIGHT
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/LICENSE-APACHE
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/LICENSE-MIT
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/NOTICE
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/README.md
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/cpu/
+Removing miniconda3/pkgs/archspec-0.2.1-pyhd3eb1b0_0/site-packages/archspec/json/tests/
+Removing miniconda3/pkgs/asgiref-3.5.2-py310h06a4308_0.conda
+Removing miniconda3/pkgs/asgiref-3.5.2-py310h06a4308_0/
+Removing miniconda3/pkgs/black-23.11.0-py310h06a4308_0.conda
+Removing miniconda3/pkgs/black-23.11.0-py310h06a4308_0/
+Removing miniconda3/pkgs/blas-1.0-mkl.conda
+Removing miniconda3/pkgs/blas-1.0-mkl/
+Removing miniconda3/pkgs/boltons-23.0.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/boltons-23.0.0-py311h06a4308_0/
+Removing miniconda3/pkgs/brotli-python-1.0.9-py311h6a678d5_7.conda
+Removing miniconda3/pkgs/brotli-python-1.0.9-py311h6a678d5_7/
+Removing miniconda3/pkgs/bzip2-1.0.8-h7b6447c_0.conda
+Removing miniconda3/pkgs/bzip2-1.0.8-h7b6447c_0/
+Removing miniconda3/pkgs/c-ares-1.19.1-h5eee18b_0.conda
+Removing miniconda3/pkgs/c-ares-1.19.1-h5eee18b_0/
+Removing miniconda3/pkgs/ca-certificates-2023.08.22-h06a4308_0.conda
+Removing miniconda3/pkgs/ca-certificates-2023.08.22-h06a4308_0/
+Removing miniconda3/pkgs/ca-certificates-2023.11.17-hbcca054_0.conda
+Removing miniconda3/pkgs/ca-certificates-2023.11.17-hbcca054_0/
+Removing miniconda3/pkgs/ca-certificates-2023.12.12-h06a4308_0.conda
+Removing miniconda3/pkgs/ca-certificates-2023.12.12-h06a4308_0/
+Removing miniconda3/pkgs/cache/
+Removing miniconda3/pkgs/certifi-2023.11.17-py310h06a4308_0.conda
+Removing miniconda3/pkgs/certifi-2023.11.17-py310h06a4308_0/
+Removing miniconda3/pkgs/certifi-2023.11.17-py311h06a4308_0.conda
+Removing miniconda3/pkgs/certifi-2023.11.17-py311h06a4308_0/
+Removing miniconda3/pkgs/certifi-2023.11.17-pyhd8ed1ab_0.conda
+Removing miniconda3/pkgs/certifi-2023.11.17-pyhd8ed1ab_0/
+Removing miniconda3/pkgs/certifi-2023.7.22-py311h06a4308_0.conda
+Removing miniconda3/pkgs/certifi-2023.7.22-py311h06a4308_0/
+Removing miniconda3/pkgs/cffi-1.15.1-py311h5eee18b_3.conda
+Removing miniconda3/pkgs/cffi-1.15.1-py311h5eee18b_3/
+Removing miniconda3/pkgs/charset-normalizer-2.0.4-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/charset-normalizer-2.0.4-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/click-8.1.7-py310h06a4308_0.conda
+Removing miniconda3/pkgs/click-8.1.7-py310h06a4308_0/
+Removing miniconda3/pkgs/conda-23.10.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-23.10.0-py311h06a4308_0/
+Removing miniconda3/pkgs/conda-23.10.0-py311h38be061_1.conda
+Removing miniconda3/pkgs/conda-23.10.0-py311h38be061_1/
+Removing miniconda3/pkgs/conda-23.11.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-23.11.0-py311h06a4308_0/
+Removing miniconda3/pkgs/conda-content-trust-0.2.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-content-trust-0.2.0-py311h06a4308_0/
+Removing miniconda3/pkgs/conda-libmamba-solver-23.11.1-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-libmamba-solver-23.11.1-py311h06a4308_0/
+Removing miniconda3/pkgs/conda-package-handling-2.2.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-package-handling-2.2.0-py311h06a4308_0/
+Removing miniconda3/pkgs/conda-package-streaming-0.9.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/conda-package-streaming-0.9.0-py311h06a4308_0/
+Removing miniconda3/pkgs/cryptography-41.0.3-py311hdda0065_0.conda
+Removing miniconda3/pkgs/cryptography-41.0.3-py311hdda0065_0/
+Removing miniconda3/pkgs/distlib-0.3.6-py310h06a4308_0.conda
+Removing miniconda3/pkgs/distlib-0.3.6-py310h06a4308_0/
+Removing miniconda3/pkgs/distro-1.8.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/distro-1.8.0-py311h06a4308_0/
+Removing miniconda3/pkgs/django-4.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/django-4.1-py310h06a4308_0/
+Removing miniconda3/pkgs/exceptiongroup-1.0.4-py310h06a4308_0.conda
+Removing miniconda3/pkgs/exceptiongroup-1.0.4-py310h06a4308_0/
+Removing miniconda3/pkgs/filelock-3.13.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/filelock-3.13.1-py310h06a4308_0/
+Removing miniconda3/pkgs/fmt-9.1.0-hdb19cb5_0.conda
+Removing miniconda3/pkgs/fmt-9.1.0-hdb19cb5_0/
+Removing miniconda3/pkgs/gh-2.39.2-ha8f183a_0.conda
+Removing miniconda3/pkgs/gh-2.39.2-ha8f183a_0/
+Removing miniconda3/pkgs/icu-73.1-h6a678d5_0.conda
+Removing miniconda3/pkgs/icu-73.1-h6a678d5_0/
+Removing miniconda3/pkgs/idna-3.4-py311h06a4308_0.conda
+Removing miniconda3/pkgs/idna-3.4-py311h06a4308_0/
+Removing miniconda3/pkgs/iniconfig-1.1.1-pyhd3eb1b0_0.tar.bz2
+Removing miniconda3/pkgs/iniconfig-1.1.1-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/intel-openmp-2023.1.0-hdb19cb5_46306.conda
+Removing miniconda3/pkgs/intel-openmp-2023.1.0-hdb19cb5_46306/
+Removing miniconda3/pkgs/isort-5.9.3-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/isort-5.9.3-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/jsonpatch-1.32-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/jsonpatch-1.32-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/jsonpointer-2.1-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/jsonpointer-2.1-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/krb5-1.20.1-h143b758_1.conda
+Removing miniconda3/pkgs/krb5-1.20.1-h143b758_1/
+Removing miniconda3/pkgs/ld_impl_linux-64-2.38-h1181459_1.conda
+Removing miniconda3/pkgs/ld_impl_linux-64-2.38-h1181459_1/
+Removing miniconda3/pkgs/libarchive-3.6.2-h6ac8c49_2.conda
+Removing miniconda3/pkgs/libarchive-3.6.2-h6ac8c49_2/
+Removing miniconda3/pkgs/libcurl-8.4.0-h251f7ec_0.conda
+Removing miniconda3/pkgs/libcurl-8.4.0-h251f7ec_0/
+Removing miniconda3/pkgs/libedit-3.1.20221030-h5eee18b_0.conda
+Removing miniconda3/pkgs/libedit-3.1.20221030-h5eee18b_0/
+Removing miniconda3/pkgs/libev-4.33-h7f8727e_1.conda
+Removing miniconda3/pkgs/libev-4.33-h7f8727e_1/
+Removing miniconda3/pkgs/libffi-3.4.4-h6a678d5_0.conda
+Removing miniconda3/pkgs/libffi-3.4.4-h6a678d5_0/
+Removing miniconda3/pkgs/libgcc-ng-11.2.0-h1234567_1.conda
+Removing miniconda3/pkgs/libgcc-ng-11.2.0-h1234567_1/
+Removing miniconda3/pkgs/libgcc-ng-13.2.0-h807b86a_3.conda
+Removing miniconda3/pkgs/libgcc-ng-13.2.0-h807b86a_3/
+Removing miniconda3/pkgs/libgomp-11.2.0-h1234567_1.conda
+Removing miniconda3/pkgs/libgomp-11.2.0-h1234567_1/
+Removing miniconda3/pkgs/libgomp-13.2.0-h807b86a_3.conda
+Removing miniconda3/pkgs/libgomp-13.2.0-h807b86a_3/
+Removing miniconda3/pkgs/libmamba-1.5.3-haf1ee3a_0.conda
+Removing miniconda3/pkgs/libmamba-1.5.3-haf1ee3a_0/
+Removing miniconda3/pkgs/libmambapy-1.5.3-py311h2dafd23_0.conda
+Removing miniconda3/pkgs/libmambapy-1.5.3-py311h2dafd23_0/
+Removing miniconda3/pkgs/libnghttp2-1.57.0-h2d74bed_0.conda
+Removing miniconda3/pkgs/libnghttp2-1.57.0-h2d74bed_0/
+Removing miniconda3/pkgs/libsolv-0.7.24-he621ea3_0.conda
+Removing miniconda3/pkgs/libsolv-0.7.24-he621ea3_0/
+Removing miniconda3/pkgs/libssh2-1.10.0-hdbd6064_2.conda
+Removing miniconda3/pkgs/libssh2-1.10.0-hdbd6064_2/
+Removing miniconda3/pkgs/libstdcxx-ng-11.2.0-h1234567_1.conda
+Removing miniconda3/pkgs/libstdcxx-ng-11.2.0-h1234567_1/
+Removing miniconda3/pkgs/libuuid-1.41.5-h5eee18b_0.conda
+Removing miniconda3/pkgs/libuuid-1.41.5-h5eee18b_0/
+Removing miniconda3/pkgs/libuv-1.44.2-h5eee18b_0.conda
+Removing miniconda3/pkgs/libuv-1.44.2-h5eee18b_0/
+Removing miniconda3/pkgs/libxml2-2.10.4-hf1b16e4_1.conda
+Removing miniconda3/pkgs/libxml2-2.10.4-hf1b16e4_1/
+Removing miniconda3/pkgs/lz4-c-1.9.4-h6a678d5_0.conda
+Removing miniconda3/pkgs/lz4-c-1.9.4-h6a678d5_0/
+Removing miniconda3/pkgs/menuinst-2.0.1-py311h06a4308_1.conda
+Removing miniconda3/pkgs/menuinst-2.0.1-py311h06a4308_1/
+Removing miniconda3/pkgs/mkl-2023.1.0-h213fc3f_46344.conda
+Removing miniconda3/pkgs/mkl-2023.1.0-h213fc3f_46344/
+Removing miniconda3/pkgs/mkl-service-2.4.0-py310h5eee18b_1.conda
+Removing miniconda3/pkgs/mkl-service-2.4.0-py310h5eee18b_1/
+Removing miniconda3/pkgs/mkl_fft-1.3.8-py310h5eee18b_0.conda
+Removing miniconda3/pkgs/mkl_fft-1.3.8-py310h5eee18b_0/
+Removing miniconda3/pkgs/mkl_random-1.2.4-py310hdb19cb5_0.conda
+Removing miniconda3/pkgs/mkl_random-1.2.4-py310hdb19cb5_0/
+Removing miniconda3/pkgs/mypy_extensions-1.0.0-py310h06a4308_0.conda
+Removing miniconda3/pkgs/mypy_extensions-1.0.0-py310h06a4308_0/
+Removing miniconda3/pkgs/ncurses-6.4-h6a678d5_0.conda
+Removing miniconda3/pkgs/ncurses-6.4-h6a678d5_0/
+Removing miniconda3/pkgs/nodeenv-1.7.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/nodeenv-1.7.0-py311h06a4308_0/
+Removing miniconda3/pkgs/nodejs-18.18.2-h2d74bed_0.conda
+Removing miniconda3/pkgs/nodejs-18.18.2-h2d74bed_0/
+Removing miniconda3/pkgs/nose-1.3.7-pyhd3eb1b0_1008.conda
+Removing miniconda3/pkgs/nose-1.3.7-pyhd3eb1b0_1008/
+Removing miniconda3/pkgs/numpy-1.26.2-py310h5f9d8c6_0.conda
+Removing miniconda3/pkgs/numpy-1.26.2-py310h5f9d8c6_0/
+Removing miniconda3/pkgs/numpy-base-1.26.2-py310hb5e798b_0.conda
+Removing miniconda3/pkgs/numpy-base-1.26.2-py310hb5e798b_0/
+Removing miniconda3/pkgs/openssl-3.0.12-h7f8727e_0.conda
+Removing miniconda3/pkgs/openssl-3.0.12-h7f8727e_0/
+Removing miniconda3/pkgs/openssl-3.2.0-hd590300_1.conda
+Removing miniconda3/pkgs/openssl-3.2.0-hd590300_1/
+Removing miniconda3/pkgs/packaging-23.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/packaging-23.1-py310h06a4308_0/
+Removing miniconda3/pkgs/packaging-23.1-py311h06a4308_0.conda
+Removing miniconda3/pkgs/packaging-23.1-py311h06a4308_0/
+Removing miniconda3/pkgs/pathspec-0.10.3-py310h06a4308_0.conda
+Removing miniconda3/pkgs/pathspec-0.10.3-py310h06a4308_0/
+Removing miniconda3/pkgs/pcre2-10.42-hebb0a14_0.conda
+Removing miniconda3/pkgs/pcre2-10.42-hebb0a14_0/
+Removing miniconda3/pkgs/pip-23.3-py311h06a4308_0.conda
+Removing miniconda3/pkgs/pip-23.3-py311h06a4308_0/
+Removing miniconda3/pkgs/pip-23.3.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/pip-23.3.1-py310h06a4308_0/
+Removing miniconda3/pkgs/pip-23.3.1-py311h06a4308_0.conda
+Removing miniconda3/pkgs/pip-23.3.1-py311h06a4308_0/
+Removing miniconda3/pkgs/pipenv-2022.7.4-py310h06a4308_0.conda
+Removing miniconda3/pkgs/pipenv-2022.7.4-py310h06a4308_0/
+Removing miniconda3/pkgs/platformdirs-3.10.0-py310h06a4308_0.conda
+Removing miniconda3/pkgs/platformdirs-3.10.0-py310h06a4308_0/
+Removing miniconda3/pkgs/platformdirs-3.10.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/platformdirs-3.10.0-py311h06a4308_0/
+Removing miniconda3/pkgs/pluggy-1.0.0-py310h06a4308_1.conda
+Removing miniconda3/pkgs/pluggy-1.0.0-py310h06a4308_1/
+Removing miniconda3/pkgs/pluggy-1.0.0-py311h06a4308_1.conda
+Removing miniconda3/pkgs/pluggy-1.0.0-py311h06a4308_1/
+Removing miniconda3/pkgs/pybind11-abi-4-hd3eb1b0_1.conda
+Removing miniconda3/pkgs/pybind11-abi-4-hd3eb1b0_1/
+Removing miniconda3/pkgs/pycosat-0.6.6-py311h5eee18b_0.conda
+Removing miniconda3/pkgs/pycosat-0.6.6-py311h5eee18b_0/
+Removing miniconda3/pkgs/pycparser-2.21-pyhd3eb1b0_0.conda
+Removing miniconda3/pkgs/pycparser-2.21-pyhd3eb1b0_0/
+Removing miniconda3/pkgs/pyflakes-3.0.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/pyflakes-3.0.1-py310h06a4308_0/
+Removing miniconda3/pkgs/pyopenssl-23.2.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/pyopenssl-23.2.0-py311h06a4308_0/
+Removing miniconda3/pkgs/pyright-1.1.343-py311hb97578e_0.conda
+Removing miniconda3/pkgs/pyright-1.1.343-py311hb97578e_0/
+Removing miniconda3/pkgs/pysocks-1.7.1-py311h06a4308_0.conda
+Removing miniconda3/pkgs/pysocks-1.7.1-py311h06a4308_0/
+Removing miniconda3/pkgs/pytest-7.4.0-py310h06a4308_0.conda
+Removing miniconda3/pkgs/pytest-7.4.0-py310h06a4308_0/
+Removing miniconda3/pkgs/python-3.10.13-h955ad1f_0.conda
+Removing miniconda3/pkgs/python-3.10.13-h955ad1f_0/
+Removing miniconda3/pkgs/python-3.11.5-h955ad1f_0.conda
+Removing miniconda3/pkgs/python-3.11.5-h955ad1f_0/
+Removing miniconda3/pkgs/python_abi-3.11-2_cp311.tar.bz2
+Removing miniconda3/pkgs/python_abi-3.11-2_cp311/
+Removing miniconda3/pkgs/readline-8.2-h5eee18b_0.conda
+Removing miniconda3/pkgs/readline-8.2-h5eee18b_0/
+Removing miniconda3/pkgs/reproc-14.2.4-h295c915_1.conda
+Removing miniconda3/pkgs/reproc-14.2.4-h295c915_1/
+Removing miniconda3/pkgs/reproc-cpp-14.2.4-h295c915_1.conda
+Removing miniconda3/pkgs/reproc-cpp-14.2.4-h295c915_1/
+Removing miniconda3/pkgs/requests-2.31.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/requests-2.31.0-py311h06a4308_0/
+Removing miniconda3/pkgs/ruamel.yaml-0.17.21-py311h5eee18b_0.conda
+Removing miniconda3/pkgs/ruamel.yaml-0.17.21-py311h5eee18b_0/
+Removing miniconda3/pkgs/setuptools-68.0.0-py310h06a4308_0.conda
+Removing miniconda3/pkgs/setuptools-68.0.0-py310h06a4308_0/
+Removing miniconda3/pkgs/setuptools-68.0.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/setuptools-68.0.0-py311h06a4308_0/
+Removing miniconda3/pkgs/setuptools-68.2.2-py311h06a4308_0.conda
+Removing miniconda3/pkgs/setuptools-68.2.2-py311h06a4308_0/
+Removing miniconda3/pkgs/six-1.16.0-pyhd3eb1b0_1.conda
+Removing miniconda3/pkgs/six-1.16.0-pyhd3eb1b0_1/
+Removing miniconda3/pkgs/sqlite-3.41.2-h5eee18b_0.conda
+Removing miniconda3/pkgs/sqlite-3.41.2-h5eee18b_0/
+Removing miniconda3/pkgs/sqlparse-0.4.4-py310h06a4308_0.conda
+Removing miniconda3/pkgs/sqlparse-0.4.4-py310h06a4308_0/
+Removing miniconda3/pkgs/tbb-2021.8.0-hdb19cb5_0.conda
+Removing miniconda3/pkgs/tbb-2021.8.0-hdb19cb5_0/
+Removing miniconda3/pkgs/tk-8.6.12-h1ccaba5_0.conda
+Removing miniconda3/pkgs/tk-8.6.12-h1ccaba5_0/
+Removing miniconda3/pkgs/tomli-2.0.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/tomli-2.0.1-py310h06a4308_0/
+Removing miniconda3/pkgs/tqdm-4.65.0-py311h92b7b1e_0.conda
+Removing miniconda3/pkgs/tqdm-4.65.0-py311h92b7b1e_0/
+Removing miniconda3/pkgs/truststore-0.8.0-py311h06a4308_0.conda
+Removing miniconda3/pkgs/truststore-0.8.0-py311h06a4308_0/
+Removing miniconda3/pkgs/typing_extensions-4.7.1-py310h06a4308_0.conda
+Removing miniconda3/pkgs/typing_extensions-4.7.1-py310h06a4308_0/
+Removing miniconda3/pkgs/tzdata-2023c-h04d1e81_0.conda
+Removing miniconda3/pkgs/tzdata-2023c-h04d1e81_0/
+Removing miniconda3/pkgs/urllib3-1.26.18-py311h06a4308_0.conda
+Removing miniconda3/pkgs/urllib3-1.26.18-py311h06a4308_0/
+Removing miniconda3/pkgs/urls
+Removing miniconda3/pkgs/urls.txt
+Removing miniconda3/pkgs/virtualenv-20.4.6-py310h06a4308_1.conda
+Removing miniconda3/pkgs/virtualenv-20.4.6-py310h06a4308_1/
+Removing miniconda3/pkgs/virtualenv-clone-0.5.7-py310h06a4308_0.conda
+Removing miniconda3/pkgs/virtualenv-clone-0.5.7-py310h06a4308_0/
+Removing miniconda3/pkgs/wheel-0.41.2-py310h06a4308_0.conda
+Removing miniconda3/pkgs/wheel-0.41.2-py310h06a4308_0/
+Removing miniconda3/pkgs/wheel-0.41.2-py311h06a4308_0.conda
+Removing miniconda3/pkgs/wheel-0.41.2-py311h06a4308_0/
+Removing miniconda3/pkgs/xz-5.4.2-h5eee18b_0.conda
+Removing miniconda3/pkgs/xz-5.4.2-h5eee18b_0/
+Removing miniconda3/pkgs/xz-5.4.5-h5eee18b_0.conda
+Removing miniconda3/pkgs/xz-5.4.5-h5eee18b_0/
+Removing miniconda3/pkgs/yaml-cpp-0.8.0-h6a678d5_0.conda
+Removing miniconda3/pkgs/yaml-cpp-0.8.0-h6a678d5_0/
+Removing miniconda3/pkgs/zlib-1.2.13-h5eee18b_0.conda
+Removing miniconda3/pkgs/zlib-1.2.13-h5eee18b_0/
+Removing miniconda3/pkgs/zstandard-0.19.0-py311h5eee18b_0.conda
+Removing miniconda3/pkgs/zstandard-0.19.0-py311h5eee18b_0/
+Removing miniconda3/pkgs/zstd-1.5.5-hc292b87_0.conda
+Removing miniconda3/pkgs/zstd-1.5.5-hc292b87_0/
+Removing miniconda3/sbin/
+Removing miniconda3/share/
+Removing miniconda3/shell/
+Removing miniconda3/ssl/
+Removing miniconda3/x86_64-conda-linux-gnu/
+Removing miniconda3/x86_64-conda_cos7-linux-gnu/
+Removing node_modules/
+Removing org/
+Removing snap/
+Skipping repository temo/.doom.d
