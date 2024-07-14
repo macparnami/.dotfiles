@@ -255,7 +255,7 @@
          :and(:file-path "Personal.org" :scheduled nil :not (:tag "event"))
          :order 3)
 
-        (:name "Todo"
+        (:name "Todo "
          :and(:file-path "Todo.org" :scheduled nil :not (:tag "event"))
          :order 3)
 
