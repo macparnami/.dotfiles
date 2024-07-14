@@ -38,8 +38,6 @@
 ;;         lsp-ui-doc-max-width 100)
 ;;   )
 
-;; (add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
-
 (use-package! centaur-tabs
 :config
 (setq centaur-tabs-style "wave")

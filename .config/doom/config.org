@@ -56,12 +56,6 @@
 ;;         lsp-ui-doc-max-width 100)
 ;;   )
 #+end_src
-** COMPLETION
-*** Corfu
-**** Nerd-icons
-#+begin_src emacs-lisp
-;; (add-to-list 'corfu-margin-formatters #'nerd-icons-corfu-formatter)
-#+end_src
 ** CENTAUR-TAB
 #+begin_src emacs-lisp
 (use-package! centaur-tabs
