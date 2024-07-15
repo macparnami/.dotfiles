@@ -177,7 +177,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git) 
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting you-should-use zsh-bat fzf)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -248,7 +248,10 @@ export PATH="/opt/nvim/:$PATH"
 
 
 #Tmux path
-alias tmux="tmux -f ~/.config/tmux/tmux.conf"
+alias tmux="tmux -f $HOME/.config/tmux/tmux.conf"
 
 # Doom path
 export PATH="$HOME/.config/emacs/bin:$PATH"
+
+# Fzf Exports
+export FZF_PATH=$HOME/.config/fzf
