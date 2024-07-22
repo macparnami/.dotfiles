@@ -63,4 +63,5 @@
 (package! toc-org)
 (package! nerd-icons-corfu)
 ;; (package! org-gtd)
-;; (package! catppuccin-theme)
+(package! catppuccin-theme)
+;; (package! vue-mode)

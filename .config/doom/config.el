@@ -10,11 +10,11 @@
 :nvi "C-l" #'lsp-ui-doc-focus-frame
  )
 
-(setq doom-theme 'doom-vibrant)
-;; (setq doom-theme 'catppuccin)
-;; (setq catppuccin-flavor 'frappe) ;; or 'latte, 'frappe 'macchiato, or 'mocha
+;; (setq doom-theme 'doom-vibrant)
+(setq doom-theme 'catppuccin)
+(setq catppuccin-flavor 'mocha) ;; or 'latte, 'frappe 'macchiato, or 'mocha
 
-(set-frame-parameter nil 'alpha-background 100)
+(set-frame-parameter (selected-frame) 'alpha-background 100)
 (add-to-list 'default-frame-alist '(alpha-background . 100))
 
 (setq doom-font (font-spec :family "FiraCode Nerd Font Mono" :size 14
@@ -45,6 +45,47 @@
 (setq centaur-tabs-gray-out-icons 'buffer)
 (setq centaur-tabs-set-bar 'under)
     )
+
+(use-package! lsp-mode
+  :custom
+  ;; (setq! lsp-javascript-display-enum-member-value-hints t)
+  ;; (setq! lsp-javascript-display-parameter-name-hint '(const :tag all all))
+  ;; (setq! lsp-javascript-display-parameter-name-hints-when-argument-matches-name t)
+  ;; (setq! lsp-javascript-display-parameter-type-hints t)
+  ;; (setq! lsp-javascript-display-property-declaration-type-hints t)
+  ;; (setq! lsp-javascript-display-return-type-hints t)
+  ;; (setq! lsp-javascript-display-variable-type-hints t)
+  ;; (setq! lsp-javascript-suggest-complete-function-calls t)
+
+  (lsp-javascript-display-enum-member-value-hints t)
+  (lsp-javascript-display-parameter-name-hint '(const :tag all all))
+  (lsp-javascript-display-parameter-name-hints-when-argument-matches-name t)
+  (lsp-javascript-display-parameter-type-hints t)
+  (lsp-javascript-display-property-declaration-type-hints t)
+  (lsp-javascript-display-return-type-hints t)
+  (lsp-javascript-display-variable-type-hints t)
+  (lsp-javascript-suggest-complete-function-calls t)
+  (lsp-vetur-format-default-formatter-css "none")
+  (lsp-vetur-format-default-formatter-html "none")
+  (lsp-vetur-format-default-formatter-js "none")
+  (lsp-vetur-validation-template nil)
+
+)
+
+(after! lsp-volar
+  ;; remove :system after lsp-volar loaded
+  (lsp-dependency 'typescript
+                  '(:npm :package "typescript"
+                    :path "tsserver")))
+
+;; (use-package! vue-mode
+;;   :mode "\\.vue\\'"
+;;   ;; :hook (vue-mode . prettier-js-mode)
+;;   :config
+;;   (add-hook 'vue-mode-hook #'lsp)
+;;   ;; (add-hook! 'vue-mode-hook 'prettier-js-mode)
+;;   ;; (setq prettier-js-args '("--parser vue"))
+;; )
 
 (add-hook 'inferior-python-mode-hook
           (lambda ()
